@@ -1,0 +1,22 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "Web App for real time chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amanjotSuccessive/chatApp.git"
+  },
+  "author": "nodeXperts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amanjotSuccessive/chatApp/issues"
+  },
+  "homepage": "https://github.com/amanjotSuccessive/chatApp#readme",
+  "dependencies": {
+    "graphql": "^14.4.2"
+  }
+}
