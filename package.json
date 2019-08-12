@@ -4,7 +4,8 @@
   "description": "Web App for real time chat",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,8 @@
   },
   "homepage": "https://github.com/amanjotSuccessive/chatApp#readme",
   "dependencies": {
-    "graphql": "^14.4.2"
+    "graphql": "^14.4.2",
+    "mongodb": "^3.3.0-beta2",
+    "mongoose": "^5.6.9"
   }
 }
